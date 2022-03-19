@@ -1,7 +1,7 @@
 <h1>Hola! My name is Korb.</h1>
 
 
-<p></br> I'm a web developer with experience in game development and computer graphics currently living on Brasil <img src="https://raw.githubusercontent.com/juliohm/awesome-brazil-data/master/images/brazil-flag.png" height=20></p>
+<p></br> I'm a web developer with experience in game development and computer graphics currently living on Brasil <img src="https://raw.githubusercontent.com/juliohm/awesome-brazil-data/master/images/brazil-flag.png" height=15></p>
 
 <h3>Technologies i use</h3>
 <p>
