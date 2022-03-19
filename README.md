@@ -2,7 +2,8 @@
 
 
 <p></br> I'm a web developer with experience in game development and computer graphics currently living on Brasil <img src="https://raw.githubusercontent.com/juliohm/awesome-brazil-data/master/images/brazil-flag.png" height=20></p>
-<h3>Things I code with</h3>
+
+<h3>Technologies i use</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -22,6 +23,7 @@
 </p>
 
 
+<h3>You can find me at</h3>
 -------------------------
 
 
